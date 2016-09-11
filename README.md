@@ -241,3 +241,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 45.Rxjava + retrofit + dagger2 + mvp搭建Android框架github-----------------https://github.com/baiiu/ZhihuDaily
 
 46.RxJoke:一个集成Rxjava,Retrofit,MVP及Dagger2的开源项目----------------http://www.open-open.com/lib/view/open1461503869624.html
+
+47.Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android----------------https://inthecheesefactory.com/blog/retrofit-2.0/en
