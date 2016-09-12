@@ -243,3 +243,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 46.RxJoke:一个集成Rxjava,Retrofit,MVP及Dagger2的开源项目----------------http://www.open-open.com/lib/view/open1461503869624.html
 
 47.Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android----------------https://inthecheesefactory.com/blog/retrofit-2.0/en
+
+48. Android Annotations浅析 ------------------http://blog.csdn.net/ljphhj/article/details/37601173
