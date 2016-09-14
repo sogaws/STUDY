@@ -245,3 +245,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 47.Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android----------------https://inthecheesefactory.com/blog/retrofit-2.0/en
 
 48. Android Annotations浅析 ------------------http://blog.csdn.net/ljphhj/article/details/37601173
+
+49. android studio配置AndroidAnnotations ----------------http://blog.csdn.net/wa991830558/article/details/41647781
