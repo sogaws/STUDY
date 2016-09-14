@@ -247,3 +247,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 48. Android Annotations浅析 ------------------http://blog.csdn.net/ljphhj/article/details/37601173
 
 49. android studio配置AndroidAnnotations ----------------http://blog.csdn.net/wa991830558/article/details/41647781
+
+50.AndroidAnnotations简明指南--------------------http://www.cnblogs.com/onespieces/p/5398390.html
