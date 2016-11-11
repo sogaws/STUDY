@@ -249,3 +249,7 @@ http://my.oschina.net/zhaoqian/blog/118458
 49. android studio配置AndroidAnnotations ----------------http://blog.csdn.net/wa991830558/article/details/41647781
 
 50.AndroidAnnotations简明指南--------------------http://www.cnblogs.com/onespieces/p/5398390.html
+
+51.android 图表 --------------------------------https://github.com/PhilJay/MPAndroidChart
+
+52。android tabwidget 颜色-------------------http://www.tuicool.com/articles/zIjqeq
