@@ -255,3 +255,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 52。android tabwidget 颜色-------------------http://www.tuicool.com/articles/zIjqeq
 
 53.android日期选择器 -----------------------http://blog.csdn.net/wwj_748/article/details/38778631
+
+54.timePicker 带秒----------------------------https://github.com/IvanKovac/TimePickerWithSeconds
