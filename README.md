@@ -251,6 +251,7 @@ http://my.oschina.net/zhaoqian/blog/118458
 50.AndroidAnnotations简明指南--------------------http://www.cnblogs.com/onespieces/p/5398390.html
 
 51.android 图表 --------------------------------https://github.com/PhilJay/MPAndroidChart
+               ---------------------------------http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0506/1614.html
 
 52。android tabwidget 颜色-------------------http://www.tuicool.com/articles/zIjqeq
 
