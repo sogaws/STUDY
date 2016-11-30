@@ -260,3 +260,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 54.timePicker 带秒----------------------------https://github.com/IvanKovac/TimePickerWithSeconds
 
 55. Android中ViewPager的简单使用（底部圆点）------------------------------http://blog.csdn.net/buptdavid/article/details/42737275
+
+56.android状态栏一体化(沉浸式状态栏)--------------------------http://blog.csdn.net/jdsjlzx/article/details/41643587
