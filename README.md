@@ -262,3 +262,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 55. Android中ViewPager的简单使用（底部圆点）------------------------------http://blog.csdn.net/buptdavid/article/details/42737275
 
 56.android状态栏一体化(沉浸式状态栏)--------------------------http://blog.csdn.net/jdsjlzx/article/details/41643587
+
+57.android 学习searchView-风格调整----------------http://www.cnblogs.com/zhangshuli-1989/p/zhangshuli_searchview_1568131.html
