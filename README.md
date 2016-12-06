@@ -268,3 +268,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 58.BlurBehind 磨砂玻璃效果：------------------https://github.com/faradaj/BlurBehind
 
 59.android 小红点提示----------------------------https://github.com/jgilfelt/android-viewbadger
+
+60。 mvp框架学习实战代码（配合retrofit+dagger2+rxjava）------------------http://blog.csdn.net/sw5131899/article/details/51860922
