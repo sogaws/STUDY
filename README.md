@@ -264,3 +264,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 56.android状态栏一体化(沉浸式状态栏)--------------------------http://blog.csdn.net/jdsjlzx/article/details/41643587
 
 57.android 学习searchView-风格调整----------------http://www.cnblogs.com/zhangshuli-1989/p/zhangshuli_searchview_1568131.html
+
+58.BlurBehind 磨砂玻璃效果：------------------https://github.com/faradaj/BlurBehind
