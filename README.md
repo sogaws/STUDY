@@ -276,3 +276,5 @@ http://my.oschina.net/zhaoqian/blog/118458
 62。Android 自定义View修炼-仿QQ5.0 的侧滑菜单效果的实现----------------------http://www.cnblogs.com/JczmDeveloper/p/4178227.html
 
 63。收集android上开源的酷炫的交互动画和视觉效果：Interactive-animation-----------http://www.open-open.com/lib/view/open1411443332703.html
+
+64.rxJava---------https://zhuanlan.zhihu.com/p/23584382
