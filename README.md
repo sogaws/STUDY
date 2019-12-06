@@ -145,7 +145,7 @@ http://my.oschina.net/zhaoqian/blog/118458
 33.专门针对初学者的Node.js教程-------------------------http://www.csdn.net/article/2013-08-28/2816731-absolute-beginners-guide-to-nodejs
    [1. 配置nodejs command代理
 	在nodejs command命令框里输入
-	npm config set proxy http://[用户名]:[密码]@proxy.neusoft.com:8080
+	npm config set proxy http://[用户名]:[密码]@xxxx.com:8080
 	[用户名][密码]为自己的东软上网代理密码，即邮箱名，密码
     2. 安装nodejs插件
 	安装完nodejs需要安装相应的插件，(进入nodejs安装目录下)执行命令分别为
@@ -196,7 +196,7 @@ http://my.oschina.net/zhaoqian/blog/118458
 29.beta----------------http://ionicframework.com/docs/v2/
 
 30.Ionic 项目启动流程：
-   第一步：在NodeJs COMMAND中连接代理 npm config set proxy http://wangshuo-neu:SOGAWS!0623@proxy.neusoft.com:8080
+   第一步：在NodeJs COMMAND中连接代理 npm config set proxy http://[用户名]:[密码]@xxxx.com:8080
    第二步：确认电脑           里是不是安装了python,检查方式cmd中输入Python看看是否跳转。
    第三步：npm install -g ionic@beta (如果失败找到node的安装目录node_modules/npm/npmrc编辑器打开在后面添加国内的npm镜像
            registry= http://registry.cnpmjs.org)[记得装python的时候设置系统变量C:\Python27;C:\Python27\Scripts;]
